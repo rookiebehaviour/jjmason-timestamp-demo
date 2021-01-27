@@ -1,21 +1,23 @@
 {
-	"name": "fcc-api-projects-boilerplate",
+	"name": "jjmason-timestamp-demo",
 	"version": "0.0.1",
-	"description": "An FCC Backend Challenge",
+	"description": "Jacqueline's Timestamp Microservice",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
 	"dependencies": {
-		"express": "^4.12.4",
+		"ejs": "^3.1.5",
+		"express": "^4.15.2",
 		"cors": "^2.8.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://githost.com/camper/repo.git"
+		"url": "https://git.heroku.com/jjmason-timestamp-demo.git"
 	},
 	"keywords": [
 		"node",
+		"heroku",
 		"hyperdev",
 		"express",
 		"freecodecamp"
